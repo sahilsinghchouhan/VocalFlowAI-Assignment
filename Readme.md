@@ -106,31 +106,6 @@ http://localhost:5000/api/balances
 
 ![API Response](./image.png)
 
----
-
-## 📊 Sample Response
-
-```json
-{
-  "success": true,
-  "deepgram": {
-    "success": true,
-    "provider": "Deepgram",
-    "balance": "Free tier",
-    "usage": "120 minutes used",
-    "remaining": "880 minutes"
-  },
-  "grok": {
-    "success": true,
-    "provider": "Grok",
-    "balance": "1000 credits",
-    "usage": "200 credits used",
-    "remaining": "800 credits"
-  }
-}
-```
-
----
 
 ## ⚠️ Notes
 
